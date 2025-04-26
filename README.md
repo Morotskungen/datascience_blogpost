@@ -10,15 +10,13 @@
 Analysis of data regarding studies in Chinese language in order to find profile of ideal learning. Part of a Udacity nanodegree in data science. Based on the findings here a blogpost is written and published on Medium. https://medium.com/@faleshti/data-science-or-just-data-d309fd925739
 
 
-### Hypotheses
-The overall basis for the hypotheses below is that persistence pays off when you study.
+### Questions
+- How does the following factors affect the chance of getting at least one correct answer:<br>
+- number of attempts<br>
+- level of help<br>
+- time spent<br>
+- number of incorrect attempts<br>
 
-There is a positive correlation between number of attempts per step and at least one correct answer. <br>
-There is a positive correlation between level of help per step and at least one correct answer. <br>
-There is a positive correlation between time spent per step and at least one correct answer. <br>
-There is a positive correlation between number of incorrect attempts per step and at least one correct answer. <br>
-
-### Files used
 
 ### Workflow
 CRISP-DM has been used when possible. Defining business problem has however been done by myself alone and no communication with owner of data has been made.
