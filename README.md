@@ -7,7 +7,7 @@
 
 
 ### Description
-Analysis of data regarding studies in Chinese language in order to find profile of ideal learning. Part of a Udacity nanodegree in data science. 
+Analysis of data regarding studies in Chinese language in order to find profile of ideal learning. Part of a Udacity nanodegree in data science. Based on the findings here a blogpost is written and published on Medium. https://medium.com/@faleshti/data-science-or-just-data-d309fd925739
 
 
 ### Hypotheses
@@ -17,6 +17,11 @@ There is a positive correlation between number of attempts per step and at least
 There is a positive correlation between level of help per step and at least one correct answer. <br>
 There is a positive correlation between time spent per step and at least one correct answer. <br>
 There is a positive correlation between number of incorrect attempts per step and at least one correct answer. <br>
+
+### Files used
+
+### Workflow
+CRISP-DM has been used when possible. Defining business problem has however been done by myself alone and no communication with owner of data has been made.
 
 
 ### Statistics provided
@@ -39,7 +44,7 @@ https://pslcdatashop.web.cmu.edu/Terms
 
 
 ### Credits
-Thanks to Suemei Wu, who enabled us to use their data through Datashop. Acknowledgment follows below:
+Thanks to Suemei Wu, who enabled us to use their data through Datashop. https://pslcdatashop.web.cmu.edu/DatasetInfo?datasetId=185
 
 
 ### Acknowledgment
